@@ -10,3 +10,6 @@ this  project was inspired by the https://www.flaticon.com/ whats new setion,
 
 
 ![](https://github.com/devnoaman/card_app/blob/master/images/implement%20this%20ui.mp4)
+<video width="320" height="240" controls>
+  <source src="https://github.com/devnoaman/card_app/blob/master/images/implement%20this%20ui.mp4" type="video/mp4">
+</video>
